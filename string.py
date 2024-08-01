@@ -1,4 +1,4 @@
-
+print("hello"+ " "+ "world"+ " " + "hello"+ " " + "world")
 # hello world hello world
 
 print("hello"+ " "+ "world"+ " " +input("what is your name"))

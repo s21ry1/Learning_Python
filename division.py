@@ -1,3 +1,3 @@
-a =4
-b =5
+a = int(input(" what is your first number ="))
+b = int(input("what is your second number ="))
 print(a/b)
